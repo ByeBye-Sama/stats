@@ -6,6 +6,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&langs_count=8&theme=radical)](https://github.com/ByeBye-Sama)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ByeBye-Sama&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![byebye_sama's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=byebye_sama)](https://wakatime.com/@byebye_sama)
 
 Back to my <a href="https://github.com/ByeBye-Sama" target="_blank"><b>PROFILE</b></a>
