@@ -8,6 +8,9 @@
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=ByeBye-Sama&theme=redical)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ByeBye-Sama&theme=dracula)](https://github.com/ByeBye-Sama)
+
 [![byebye_sama's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=byebye_sama)](https://wakatime.com/@byebye_sama)
 
 Back to my <a href="https://github.com/ByeBye-Sama" target="_blank"><b>PROFILE</b></a>
